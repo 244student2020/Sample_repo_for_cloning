@@ -1,4 +1,4 @@
-# Methodology Change: Including “Probable” Cases
+#     Methodology Change: Including “Probable” Cases
 May 7, 2020
 
 At the beginning of the Covid-19 epidemic in the United States, most health departments and the Centers for Disease Control only considered a case to be “confirmed” as Covid-19 with a positive confirmatory laboratory test result for SARS-CoV-2 RNA. Recently, however, more and more states and localities have started to include “probable” cases and/or deaths in their counts — in some places reporting only a combined “confirmed” and “probable” total.
